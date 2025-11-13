@@ -1,0 +1,11 @@
+London Musical Tickets - Receipt
+Order ID: 37f198b0-e308-4a89-a1f6-da2e5c217f9b
+Musical: Les Misérables
+Show: 2025-11-17 19:30
+----------------------------------------
+Seat     Type       Price   
+----------------------------------------
+10       Adult      $50
+----------------------------------------
+Total: $50
+Thank you for your purchase!

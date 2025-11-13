@@ -1,0 +1,15 @@
+London Musical Tickets - Receipt
+Order ID: 78bf0d27-1ff9-4e7f-a23f-2ba58615e76a
+Musical: The Lion King
+Show: 2025-11-08 19:00
+----------------------------------------
+Seat     Type       Price   
+----------------------------------------
+9        Adult      $50
+11       Senior     $40
+14       Senior     $40
+15       Student    $35
+17       Student    $35
+----------------------------------------
+Total: $200
+Thank you for your purchase!
